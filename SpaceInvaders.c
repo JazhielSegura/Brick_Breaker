@@ -1,4 +1,4 @@
-// SpaceInvaders.c
+// SpaceInvaders.c (Brick Breaker Driver)
 // Runs on TM4C123
 // Jonathan Valvano and Daniel Valvano
 // This is a starter project for the ECE319K Lab 10
